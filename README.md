@@ -35,4 +35,4 @@ The wrangle.py file in the wrangling_scripts folder contains the code for obtain
 The requirements.txt file includes all the necessary libraries for this project.
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
-I'd like to thank the Udacity Data Science Nanodegree team for the inspiration and foundation code for this project. The foundation code can be found in [this github repository](https://github.com/udacity/DSND_Term2/tree/master/lessons/WebDevelopment/AdvancedDataDashboardCode/world_bank_api_dashboard).
+I'd like to thank the Udacity Data Science Nanodegree team for the inspiration and template code for this project. The template code can be found in [this github repository](https://github.com/udacity/DSND_Term2/tree/master/lessons/WebDevelopment/AdvancedDataDashboardCode/world_bank_api_dashboard).
